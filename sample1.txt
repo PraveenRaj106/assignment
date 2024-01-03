@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 in master
+=======
+in first
+>>>>>>> first
